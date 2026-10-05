@@ -1,2 +1,2 @@
 # Happy-Seagulls
-Some nonsense I made a few years ago in javascript. I put it up to see how github works. Enjoy the pinnacle of jankiness
+Some nonsense I made a few years ago in javascript, there are many bugs, and poor memory handling. Enjoy the pinnacle of jankiness.
